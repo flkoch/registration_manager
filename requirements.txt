@@ -1,15 +1,8 @@
 autopep8>=1.5.4
-<<<<<<< HEAD
 Django>=3.2
-=======
-Django>=3.1.5
->>>>>>> e7a46abab3bc963b6fbd397edae31c433a8ef4d3
 django-active-link>=0.1.7
 django-crispy-forms>=1.10.0
 django-filter>=2.4.0
 django-tempus-dominus>=5.1.2.13
-<<<<<<< HEAD
 python-environ>=0.4.5
 pillow>=8.2
-=======
->>>>>>> e7a46abab3bc963b6fbd397edae31c433a8ef4d3
