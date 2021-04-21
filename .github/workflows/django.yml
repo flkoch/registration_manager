@@ -42,4 +42,4 @@ jobs:
         PYTHON_DJANGO_STATIC_ROOT: ''
       run: |
         cd registration_manager
-        python ENV_PATH=.env.test ./manage.py test
+        ENV_PATH=.env.test python  ./manage.py test
